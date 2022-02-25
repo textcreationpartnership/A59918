@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter written from Sir W. Saintliger, Lord President of Munster, to the Lord Lieutenant of Ireland also, the votes of the Parliament, concerning Sir John Hotham.</title>
+            <author>Saintliger, W. (William), Sir, d. 1642.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59918</idno>
+            <idno type="STC">Wing S338A</idno>
+            <idno type="STC">ESTC R13486</idno>
+            <idno type="EEBO-CITATION">13135602</idno>
+            <idno type="OCLC">ocm 13135602</idno>
+            <idno type="VID">97923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 750:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter written from Sir W. Saintliger, Lord President of Munster, to the Lord Lieutenant of Ireland also, the votes of the Parliament, concerning Sir John Hotham.</title>
+                  <author>Saintliger, W. (William), Sir, d. 1642.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for John Franke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed (p. [8]): Corke April 2, 1642. W. Saintleger.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97923:1"/>
+            <pb facs="tcp:97923:1" rendition="simple:additions"/>
+            <p>A TRVE COPY OF A LETTER Written From Sir W. SAINTLIGER Lord Preſident of <hi>Munſter,</hi> To the Lord Lieutenant Of IRELAND.</p>
+            <p>Alſo, the votes of the Parliament, concerning Sir <hi>John Hotham.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Martis 25. April. 1642.</date>
+                     </dateline>
+                  </opener>
+                  <p>It is this day ordered by the Commons now aſſem<g ref="char:EOLhyphen"/>bled in Parliament, that this Letter be forth<g ref="char:EOLhyphen"/>with publiſhed in print.</p>
+                  <closer>
+                     <signed>H. Elſinge Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> for <hi>John Franke,</hi> and are to ſold at his ſhop next dore to the Kings head, in Fleetſtreet. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97923:2"/>
+            <pb facs="tcp:97923:2"/>
+            <opener>
+               <salute>Right Honourable, my very good Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ithence my laſt by my Lord of <hi>Dungarvan,</hi> my owne indiſpoſition and imbecility hath been ſuch as in mine owne perſon I have not been able to attempt any thing, but have by my ſickneſſe been confined to my chamber: but the forward earneſtneſſe and zeale to the ſervice in my Lord of <hi>Inchequid,</hi> Collonel <hi>Vavaſor,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Iephſon</hi> and the reſt of the officers of the ſmal Army here hath accompliſhed ſome exploits whereof you may pleaſe to receive the enſuing relation.</p>
+            <p>I being beſieged on the North ſide of the City by my Lord <hi>Muskry,</hi> M <hi>Carly Leath,</hi> &amp; all the reſt of the weſtern forces, and having notice that my Lord <hi>Roche,</hi> my Lord of <hi>Ikarne Donbay,</hi> the Baron of <hi>Loghmay,</hi> M. <hi>Richard Butler,</hi> and all the tipperary forces were drawing up to belea<g ref="char:EOLhyphen"/>ger me on the South, I diſpatched away the two Troops then newly landed under the command of my Lord <hi>In<g ref="char:EOLhyphen"/>chequid</hi> and Captain <hi>Jephſon</hi> into the Lord <hi>Roches</hi> Coun<g ref="char:EOLhyphen"/>trey, in expectance to divert him from his intended courſe hitherwards, which ſorted to ſo good purpoſe as that I ſince underſtand the tipperary forces have forſa<g ref="char:EOLhyphen"/>ken him, and that he remaines himſelfe upon his kee<g ref="char:EOLhyphen"/>ping in his owne Countrey. During the ſtay of theſe Troops there, they were deſired to the reliefe of a Caſtle called Rathgogan by one M. <hi>Meade,</hi> which M. <hi>Iephſon</hi>
+               <pb facs="tcp:97923:3"/>having performed with a Squadron of each Troop, and 80. Muſqueters drawne out of his houſe and mine: in his retreat he was encountered by two or three Compa<g ref="char:EOLhyphen"/>nies from <hi>Milmallocke,</hi> on whom he with a Horſe, and another Officer with a Foot charged in ſeverall places, and routed them, ſlaying about 150. beſides 50. ſlaine in relieving the Caſtle. On the thirteenth of this inſtant my Lord of <hi>Muskry</hi> (who hath kept his Camp a long time at <hi>Rochforts</hi> Towne three miles from this City) cauſed a part of his Army to chaſe home our ſcoutes to the very ſuburbs where in a bravado they made a ſtand, whereat my Lord <hi>Inchequid,</hi> Colonell <hi>Vavaſor,</hi> and the reſt of the Officers being much incenſed obtained my leave to iſſue forth immediately with 300. muſqueteers, and two Troops of horſe, upon the ſallying out they found the enemy retreated, and purſued him to his quarters, where the maine body conſiſting of 36 colours as they were numbred forthwith appeared, and after ſeverall parties ſent from the maine body to skermiſh with our men, had been beaten backe, they began to packe up their Baggage, and forſooke their Campe, after whom our men made all the ſpeed they might, and ha<g ref="char:EOLhyphen"/>ving chaſed them two or three miles, charged upon the reare, routed the whole Army, which betooke it ſelfe to flight over a bog unpaſſable for our horſe, and tooke all their carriage and luggage, whereof the Lord of <hi>Muſ<g ref="char:EOLhyphen"/>keries</hi> owne Armcur, Tent, and Trunks were a part, ſlew about 200 of their men that cooke to firme ground, and retired without loſſe of a man. Whereby it is very eaſie to obſerve with what facility the enemy might now be dealt withall before he can recollect himſelfe anew, or receive forraine ſupplies which they daily and hourely expect, and being once come to their hands it will
+<pb facs="tcp:97923:3"/>not then be trebble the charge and expence both of blood and treaſure that will ſuppreſſe them, which now would reduce them to a very great ſtraight.</p>
+            <p>And therefore I do moſt humbly beſeech your Lord<g ref="char:EOLhyphen"/>ſhip that ſpeedy ſupplies of men, monies, armes, muniti<g ref="char:EOLhyphen"/>on and artilery, with all neceſſaries depending thereon, as Conducters, Pyoners, Mattroſſes, Carriages, Tackle, Horſes and Oxen for draught, and all other appurte<g ref="char:EOLhyphen"/>nances may either be ſent over, or commiſſion and means to raiſe and maintaine them here, here being but one Canonere, and one Clerke of the ſtore in this Pro<g ref="char:EOLhyphen"/>vince: without theſe your Lordſhip knows that it is to no boote to march into the field<g ref="char:punc">▪</g> where if the enemy be not too hard for us, he will certainly retire to his holds, and ſo ſecure himſelfe againſt our forces.</p>
+            <p>The neceſſary uſe of Firelocks and Dragoones, and of a competent ſupply of victuall, the ſtocke of this Countrey being totally waſted, will deſerve ſerious con<g ref="char:EOLhyphen"/>ſideration: and if I had beene ſo fortunate as to have re<g ref="char:EOLhyphen"/>ceived any ſuccours by thoſe late Eaſterly winds it would have ſo diſcouraged the enemy now newly rou<g ref="char:EOLhyphen"/>ted and animated the Proteſtant party, as that I am very conſident by Gods aſſiſtance I ſhould have given your Lordſhip a good account of the quiet of theſe parts. Whereas the obſerving that this faire opportunity hath conveyed us no reliefe do begin to muſter up their for<g ref="char:EOLhyphen"/>ces a freſh, and to take heart at the apprehenſion of our being diſerted in <hi>England</hi> and left wholy to our ſelves, wherein I cannot ſufficiently expreſſe how miſerable our conditions is; for having from the beginning of theſe troubles ſupported the forces mentioned, in the incloſed liſt with moneyes gained upon ſeverall hard termes and ingagements (beſides what I have impreſſed
+<pb facs="tcp:97923:4"/>to the ſuccour ſent thence) I was at laſt conſtrained to ſeize upon 4000 pounds belonging to Sir <hi>Robert Tynte,</hi> and ready to be tranſported out of the Kingdome (and which he refuſed to lend upon the publique faith of this ſtate, which nevertheleſſe I gave him upon the ſeiſure) meerely to preſerve the Army from disbanding, which o<g ref="char:EOLhyphen"/>therwiſe it muſt have undoubtedly done. And therefore I humbly deſire, that money may be ſent over not onely to diſcharge that and other engagements, amounting to 4000 pounds more, but that there may be order taken for the entring of thoſe men into pay, and continuing them therein ever ſince the beginning of the preſent troubles which I raiſed at firſt (by direction from the Lords Juſtices) for this ſervice, and that the ſame courſe may be taken for them as for the reſt.</p>
+            <p>The heighth of inſolency and arrogancy in the ene<g ref="char:EOLhyphen"/>my will appeare by the incloſed Remonſtrance which they ſent me after a motion made for a ceſſation, which in the condition I was in, I had ſome inclination to con<g ref="char:EOLhyphen"/>diſcend unto, in caſe it had been ſought for in befitting termes: to which purpoſe I willed them to addreſſe their humble petition to His Majeſty, and in caſe I did ap<g ref="char:EOLhyphen"/>prone thereof, I would give way thereunto, and to a ceſſation untill his pleaſure were knowne; where<g ref="char:EOLhyphen"/>upon they tranſmit me that, whereof the incloſed is a copy: at which I tooke (juſtly as I conceive) ſuch of<g ref="char:EOLhyphen"/>fence as cauſed me to returne them the incloſed anſwer, which I ſhould have ſeconded with ſuch further teſti<g ref="char:EOLhyphen"/>mony of my averſion to their inſolency as would tend much to their diſincouragment were I enabled with any reaſonable ſtrength ſo to doe, which I earneſtly deſire I may be, and with inſtructions what hand to carry in the proſecution of them, and how to manage the warre
+<pb facs="tcp:97923:4"/>againſt them, for that every day they encreaſe in inſo<g ref="char:EOLhyphen"/>lencie and riot, hanging ſuch priſoners as are not able to pay ranſome, ranſoming others, hanging old women and ſtripping all they can lay hold on. All that is left in this Province is the City of <hi>Corke,</hi> the Townes of <hi>King<g ref="char:EOLhyphen"/>ſale, Youghall,</hi> and <hi>Bandonbridge;</hi> the Cities of <hi>Limricke</hi> and <hi>Waterford</hi> being fallen into defection, ſave that the Fort in the former is able to command the Towne if provided with Munition, wherewith I have ſent to ſup<g ref="char:EOLhyphen"/>ply it.</p>
+            <p>For perſons in Action, it is farre leſſe difficult to no<g ref="char:EOLhyphen"/>minate thoſe that adhere to the Crowne, which are the Earle of <hi>Barrymore,</hi> (an induſtrious ſervitour) the Lord Viſcount <hi>Killmallocke,</hi> Sir <hi>Andrew Barret,</hi> and <hi>Edmond Fitz Gerald</hi> of <hi>Ballmarter</hi> commonly called the <hi>Seneſcall</hi> of <hi>Imokilly,</hi> by whoſe care and countenance (joyned with my <hi>Lord Barrimores</hi> that Barrony of <hi>Imokilly</hi> is kept in due ſubjection, and the paſſage betwixt this City and <hi>Youghall</hi> thereby open. But whilſt we ſtand on theſe unable termes to ſtirre out of theſe walles, the enemy is at liberty to range and forrage over all parts of the Countrey. And indeed our wants of money are ſo great and preſſing, as that for defect of entertainment and en<g ref="char:EOLhyphen"/>couragement, the Officers both of horſe and foote daily flocke unto me, and importune to be diſmiſſed and left at liberty to ſeeke their preferment in <hi>England:</hi> and ſo ſoone at this little which is left me to feede the ſouldiers with from hand to mouth is ſpent, I know no way to prevent their ſudden disbanding: and therefore I doe againe beſeech your Lordſhip to endeavour that I may not be expoſed to the diſhonour and miſery of being abandoned by the Kings forces, and left my ſelfe ſingle to the mercy of the enemy; but that monies may be
+<pb facs="tcp:97923:5"/>ſpeedily tranſmitted unto me with directions what pay to allow the horſe-men, and Officers of the foote, with an overplus of money, as I have formerly deſired, for extraordinary and emergent occaſions, about either the Ordnance or Forts whereas yet nothing is in a right po<g ref="char:EOLhyphen"/>ſture, but things onely ſhuffled together for a ſhift by reaſon we had not wherewithall to the worke as it ought.</p>
+            <closer>
+               <dateline>Corke <date>Apr. 20. 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble ſervant, <hi>W. Saintleger.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Die Martis 26. April. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Reſolved upon the Queſtion.</hi>
+THat Sir <hi>John Hotham</hi> Knight, according to this relation, hath done nothing but in obedience to the Command of both Houſes of Parliament.</p>
+            <p>
+               <hi>Reſolved upon the Queſtion.</hi>
+That this declaring of Sir <hi>John Hotham</hi> trai<g ref="char:EOLhyphen"/>tour, being a Member of the Houſe of Com<g ref="char:EOLhyphen"/>mons, is a high breach of the priviledge of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <hi>Reſolved upon the Queſtion.</hi>
+That this declaring of Sir <hi>John Hotham</hi> traitor without due proceſſe of the Law, is againſt the liberty of the ſubject, and againſt the law of the Land.</p>
+            <p>
+               <hi>Ordered by the Lords and Commons in Parliament, that theſe Votes ſhall be printed and ſent to the Sheriffs, and the Iuſtices of the peace, to be publiſhed in all the Market towns of the Counties of Yorke and Lincoln.</hi>
+            </p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliamen.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
